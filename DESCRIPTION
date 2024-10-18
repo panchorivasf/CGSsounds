@@ -1,0 +1,13 @@
+Package: CGSsounds
+Type: Package
+Title: Sound samples from the Center for Global Soundscapes collection.
+Version: 0.1.0
+Author: Francisco Rivas
+Maintainer: frivasfu@purdue.edu
+Description: Example recordings from Tanzania, Borneo, Mongolia, USA, Finland, Costa Rica, and Argentina.
+License: CC BY-NC
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.3.1
