@@ -8,7 +8,7 @@
 A \code{Wave} object.
 }
 \source{
-recorded in Issa Valley, Mpanda, western Tanzania.
+recorded in Issa Valley, Katavi, Western Tanzania.
 }
 \usage{
 birds_tanzania
@@ -17,6 +17,11 @@ birds_tanzania
 This dataset contains audio recordings of birds from Tanzania.
 The object is of class \code{Wave} from the \code{tuneR} package, and contains stereo
 audio data along with sample rate and bit depth information.
+}
+\details{
+Sampling rate: 48 kHz.
+
+Duration: 60 seconds.
 }
 \examples{
 \dontrun{
