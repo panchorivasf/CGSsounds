@@ -7,7 +7,6 @@
 #'
 #' @docType package
 #' @name CGSsounds
-#' @aliases CGSsounds-package
 #'
 #' @import tuneR
 #' @import seewave
@@ -15,4 +14,5 @@
 #' @references
 #' For more information see:
 #' \url{https://github.com/panchorivasf/CGSsounds}
-NULL
+#' @keywords internal
+"_PACKAGE"

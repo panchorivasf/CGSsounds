@@ -14,7 +14,7 @@ coral_reef_pr
 Recording of Coral Reef Soundscape in Puerto Rico
 }
 \details{
-Recorder: ?
+Recorder: SongMeter3 Marine
 Date: 2017-07-04
 Time: 22:00
 
