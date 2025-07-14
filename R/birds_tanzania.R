@@ -4,9 +4,13 @@
 #' The object is of class \code{Wave} from the \code{tuneR} package, and contains stereo
 #' audio data along with sample rate and bit depth information.
 #'
+#' Sampling rate: 48 kHz.
+#'
+#' Duration: 60 seconds.
+#'
 #' @format A \code{Wave} object.
 #'
-#' @source recorded in Issa Valley, Mpanda, western Tanzania.
+#' @source recorded in Issa Valley, Katavi, Western Tanzania.
 #'
 #' @examples
 #' \dontrun{
