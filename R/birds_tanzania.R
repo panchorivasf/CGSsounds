@@ -1,6 +1,6 @@
-#' Birds Tanzania Audio Dataset
+#' Recording of Birds from Tanzania
 #'
-#' This dataset contains audio recordings of birds from Tanzania.
+#' An audio recording of birds from Issa Valley, Katavi, Tanzania.
 #' The object is of class \code{Wave} from the \code{tuneR} package, and contains stereo
 #' audio data along with sample rate and bit depth information.
 #'

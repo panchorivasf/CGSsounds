@@ -3,7 +3,7 @@
 \docType{data}
 \name{birds_tanzania}
 \alias{birds_tanzania}
-\title{Birds Tanzania Audio Dataset}
+\title{Recording of Birds from Tanzania}
 \format{
 A \code{Wave} object.
 }
@@ -14,7 +14,7 @@ recorded in Issa Valley, Katavi, Western Tanzania.
 birds_tanzania
 }
 \description{
-This dataset contains audio recordings of birds from Tanzania.
+An audio recording of birds from Issa Valley, Katavi, Tanzania.
 The object is of class \code{Wave} from the \code{tuneR} package, and contains stereo
 audio data along with sample rate and bit depth information.
 }
